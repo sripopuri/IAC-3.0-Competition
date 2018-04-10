@@ -66,11 +66,11 @@ nrow(data[data$Housework >= data$Food...Drink.Prep,]) # --> 36619
 # of the other records.
 
 ############################## Conclusion ##############################
-# My doubt with correlation is,
+# My question with concept of correlation is,
 # Even when there is no relationship between the variables,
 # that is, when the slope of the linear relationship
 # between two variables is 0, there is a good correlation 
 # shown by the function.
 # But if I can see a linear pattern between these pairs
 # of variables as above plots, I think we can trust the
-# correlation paramter here.
+# correlation parameter here.
