@@ -6,7 +6,7 @@ library(ggplot2)
 library(gridExtra)
 
 # Setting the required working directory
-setwd("D:/New folder/Fwd__IAS-_Intelligence_Analytics_Challenge_3.0_-_Let's_Begin")
+setwd("D:/New folder/Fwd__IAS-_Intelligence_Analytics_Challenge_3.0_-_Let's_Begin") 
 
 # Getting the data
 data = read.csv('Training Dataset.csv')
