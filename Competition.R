@@ -122,7 +122,7 @@ ggplot(one, aes(Age.Range, Sleeping)) +
   geom_boxplot(outlier.color = "red",outlier.size = 0.5)
 
 ggplot(one, aes(Age.Range, Sleeping)) +
-  geom_boxplot(outlier.color = "red",outlier.size = 0.5)
+  geom_boxplot(outlier.color = "red",outlier.size = 0.5) 
 
 time_hr = one[,11:24]
 x = apply(time_hr, 2, function(x){x/60})
